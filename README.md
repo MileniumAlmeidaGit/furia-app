@@ -33,7 +33,5 @@ Este projeto é uma solução completa para o hub da FURIA, permitindo que os us
 4. **Chat:** Funcionalidade de chat onde o usuário pode fazer perguntas e receber respostas automatizadas.
 5. **Módulo de IA (Opcional):** Analisa as interações, gera um "fan score" e valida os cadastros.
 
-## Organização do Repositório (Monorepo)
 
-O repositório está estruturado da seguinte forma:
 
